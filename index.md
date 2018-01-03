@@ -1,3 +1,5 @@
+<img src="https://pbs.twimg.com/profile_images/948644667993808896/SbI8H-UT_400x400.jpg" alt="Salvem TV3" width="400px">
+
 # SalvemTV3
 
 ## Qui som?
